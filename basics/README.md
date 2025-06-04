@@ -12,3 +12,5 @@ Task 10 : Nous savons tous que CD .. reviens en arriere mais ne reviens pas au d
 Task 11 : la reponse se trouve l'explication
 Task 12 : 1ere utilisation de la commande file avec le bon chemin
 Task 13 : -s et ln
+Task 14 : premeire utilisation de -u pour pinf
+Task 15 [A-Z]* avec la bonne commande et le bon chemin
