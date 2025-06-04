@@ -14,3 +14,4 @@ Task 12 : 1ere utilisation de la commande file avec le bon chemin
 Task 13 : -s et ln
 Task 14 : premeire utilisation de -u pour pinf
 Task 15 [A-Z]* avec la bonne commande et le bon chemin
+Task 16 : sa revois les deux dernieres et les question qu'on a pu se pose donc " * " on la met devant ou derriere rm ;)
