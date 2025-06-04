@@ -6,3 +6,4 @@ Task 4 : la meme chose que la 3 sauf qu'on dois montrer les fichier cacher la co
 Task 5 : il faut encore ajouter une commande a notre commande de base ls pour ajouter le digit only
 Task 6 : faut juste creer un repertoire c'est pas complique avec mkdir mais a regarder mkdir --help pour avoir toutes les commandes
 Task 7 : le but est de move un fichier dans un autre avec la commande mv et le bon chemin c'est facile
+Task 8 : un simple rm et le bon chemin et c'est fait
