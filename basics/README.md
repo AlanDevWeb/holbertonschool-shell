@@ -2,3 +2,4 @@ Task 0 : il est demande de faire un script pour montrer le absolute path of the 
 Task 1 : C'est la meme chose mais au lieu de faire pwd on vas faire ls
 Task 2 : l'objectif est de retourner dans le directory " HOME " donc la commande c'est cd home
 Task 3 : L'objectif est de display current directory contents in long formats donc se sera la commande ls- l
+Task 4 : la meme chose que la 3 sauf qu'on dois montrer les fichier cacher la commande a rajouter au ls serait selon moi -a pour (all)
