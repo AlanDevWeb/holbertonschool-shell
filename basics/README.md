@@ -1,0 +1,1 @@
+Task 0 : il est demande de faire un script pour montrer le absolute path of the working directory donc la commande (pwd) 
