@@ -15,3 +15,4 @@ Task 13 : -s et ln
 Task 14 : premeire utilisation de -u pour pinf
 Task 15 [A-Z]* avec la bonne commande et le bon chemin
 Task 16 : sa revois les deux dernieres et les question qu'on a pu se pose donc " * " on la met devant ou derriere rm ;)
+Task 17 : mkdir est de retour mais attention a bien utilise la commande parent pour faire une suite de repertoire (-p)
