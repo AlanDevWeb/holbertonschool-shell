@@ -8,3 +8,6 @@ Task 6 : faut juste creer un repertoire c'est pas complique avec mkdir mais a re
 Task 7 : le but est de move un fichier dans un autre avec la commande mv et le bon chemin c'est facile
 Task 8 : un simple rm et le bon chemin et c'est fait
 Task 9 : Same shit but with rmdir command et le bon chemin donc rmdir /tmp/my_first_directory
+Task 10 : Nous savons tous que CD .. reviens en arriere mais ne reviens pas au dossier precendent on bas utiliser cd -
+Task 11 : la reponse se trouve l'explication
+Task 12 : 1ere utilisation de la commande file avec le bon chemin
