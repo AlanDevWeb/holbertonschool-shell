@@ -11,3 +11,4 @@ Task 9 : Same shit but with rmdir command et le bon chemin donc rmdir /tmp/my_fi
 Task 10 : Nous savons tous que CD .. reviens en arriere mais ne reviens pas au dossier precendent on bas utiliser cd -
 Task 11 : la reponse se trouve l'explication
 Task 12 : 1ere utilisation de la commande file avec le bon chemin
+Task 13 : -s et ln
